@@ -1,7 +1,7 @@
 :root {
   --primary-color: #5484d1;
   --secondary-color: #a7c1ec;
-  --tertiary-color: #030a54;
+  --tertiary-color: #09093d;
   --max-width: 1100px;
 
 }
@@ -30,7 +30,7 @@ body {
 
 
 .spline{
-  height: 520px;
+  height: 540px;
   display: flex;
   flex:1;
   align-items:flex-end;
@@ -84,7 +84,7 @@ body {
   align-content: flex-start;
   align-items:flex-end;
   background: var(--tertiary-color);
-  padding: 2rem 5rem 0.4rem 4rem;
+  padding: 1.6rem 0rem 0rem 3.5rem;
   font-size: 16px;
   font-weight: 400;
   
@@ -96,7 +96,7 @@ body {
 }
 .showcase-content h1 {
   font-size: 70px;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
   font-weight: bolder;
   color:#fcfcfc;
   text-shadow:0.05rem 0.05rem 1rem #c6cbff ;
@@ -120,9 +120,9 @@ body {
 }
 
 .f-text{
-color:#daa5a5;
+color:rgb(213, 154, 154);
 height: 4.8em; 
-font-weight: 550;
+font-weight: 460;
 }
 .lead1{
   padding-bottom: 15px;
